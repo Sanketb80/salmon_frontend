@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.46a2e2fc.css",
+    "main.js": "/static/js/main.60d6396b.js",
+    "static/js/453.3d4c1e0e.chunk.js": "/static/js/453.3d4c1e0e.chunk.js",
+    "static/media/salmonlogo.png": "/static/media/salmonlogo.12f35339698c5509fec3.png",
+    "static/media/payment.jpeg": "/static/media/payment.1fb2268abd87997f34e0.jpeg",
+    "static/media/logomob.png": "/static/media/logomob.3f32778bd81fded9b445.png",
+    "static/media/Kubernet.png": "/static/media/Kubernet.c9c13f02a3279ff098bd.png",
+    "static/media/react.png": "/static/media/react.21ab8e16d0a7abae2b5e.png",
+    "static/media/figma.png": "/static/media/figma.aa8f02b87370c22a7c9e.png",
+    "static/media/graph1.png": "/static/media/graph1.8b1d8bfeece5bcd42542.png",
+    "static/media/python.png": "/static/media/python.212de8d7278260fca353.png",
+    "static/media/graph.png": "/static/media/graph.9c94c31f402497f328b5.png",
+    "static/media/fastapi.png": "/static/media/fastapi.7802108d9831cdd743bc.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.46a2e2fc.css.map": "/static/css/main.46a2e2fc.css.map",
+    "main.60d6396b.js.map": "/static/js/main.60d6396b.js.map",
+    "453.3d4c1e0e.chunk.js.map": "/static/js/453.3d4c1e0e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46a2e2fc.css",
+    "static/js/main.60d6396b.js"
+  ]
+}
